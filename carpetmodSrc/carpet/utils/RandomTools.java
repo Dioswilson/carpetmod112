@@ -19,7 +19,6 @@ public class RandomTools {
                 result = MAX_ODD;
             }
             else {
-
                 result = MIN_ODD + (MAX_ODD - MIN_ODD) * nextDouble;
             }
         }
